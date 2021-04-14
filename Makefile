@@ -2,7 +2,7 @@
 
 BUILD_DIR := "./_build"
 # space delimited list of available languages, e.g., LOCALES:=ja es pt
-LOCALES:=ja
+LOCALES:=
 
 help:
 	@echo "Please use 'make <target>' where <target> is one of:"
@@ -32,7 +32,7 @@ runall:
 	jupyter-book run ./content
 
 clean:
-	python scripts/clean.py
+	python3 scripts/clean.py
 
 serve:
 	bundle exec guard

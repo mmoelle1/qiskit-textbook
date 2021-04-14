@@ -11,9 +11,9 @@
  * [6]: The footer at the bottom of the sidebar
  */
 $color-sidebar-bg: $color-dark-gray !default;
-$color-sidebar-entry: #121619 !default;
+$color-sidebar-entry: #000000 !default;
 $color-sidebar-entry--active: $color-links;
-$color-sidebar-divider: #121619 !default;
+$color-sidebar-divider: #000000 !default;
 
 .c-textbook__sidebar {
   background-color: $color-sidebar-bg;

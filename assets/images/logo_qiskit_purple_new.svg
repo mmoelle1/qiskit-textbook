@@ -9,10 +9,10 @@
 >
     <style type="text/css">
       .app-logo__gradient {
-        stop-color: #6929c4;
+        stop-color: #00a6d6;
       }
       .app-logo__solid {
-        fill: #6929c4;
+        fill: #00a6d6;
       }
     </style>
     <defs>

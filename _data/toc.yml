@@ -37,6 +37,8 @@
   url: /ch-prerequisites/setting-the-environment.html
   external: true
   sections:
+    - title: LibKet
+      url: /ch-prerequisites/cse21_tutorial01
     - title: Setting Up Your Environment
       url: /ch-prerequisites/setting-the-environment
     - title: Python and Jupyter Notebooks

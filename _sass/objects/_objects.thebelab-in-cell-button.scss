@@ -12,7 +12,7 @@
   }
   
   button {
-    background-color: #DDE1E6;
+    background-color: #BABABB;
     border: none;
     padding: 6px 16px;
     cursor: pointer;
@@ -20,11 +20,11 @@
     transition: background-color .2s linear, color .2s linear;
     &:hover {
 	color: white;
-	background-color: #21272A;
+	background-color: #0066A2;
     }
     &:active {
 	    background-color: white;
-	    color: #121619;
+	    color: #000000;
     }
   }
 }

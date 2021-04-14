@@ -3,8 +3,8 @@
     // To ensure that thebelab cells are always the top of the Z-stack
     position: relative;
     z-index: 999;
-    border: 1px solid #DDE1E6;
-    background-color: #F2F4F8;
+    border: 1px solid #BABABB;
+    background-color: #F7F7F7;
     border-radius: 0px;
     &:focus-within {
 	border-color: $color-buttons;
@@ -27,19 +27,19 @@
     font-weight: 300;
     text-align: center;
     transition: all 0.2s;
-    background-color: #DDE1E6;
+    background-color: #BABABB;
     border: none;
-    color: #121619;
+    color: #0066A2;
 }
 
 .thebelab-button:hover{
-    background-color: #21272A;
+    background-color: #000000;
     color: white;
 }
 
 .thebelab-button:active{
 	background-color: white;
-	color: #121619;
+	color: #000000;
 }
 
 .CodeMirror {

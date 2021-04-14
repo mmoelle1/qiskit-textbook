@@ -53,7 +53,7 @@
   <path
      inkscape:connector-curvature="0"
      id="path833"
-     fill="#6929C4"
+     fill="#00A6D6"
      d="m 11,11 v 2.125 H 1 V 11 H 0 v 2.125 c 0,0.58437 0.45,1.0625 1,1.0625 h 10 c 0.55,0 1,-0.47813 1,-1.0625 V 11 Z" />
   <g
      transform="translate(1,-0.0625)"
@@ -62,7 +62,7 @@
     <path
        inkscape:connector-curvature="0"
        d="M 10,6.96875 9.3,6.22505 5.5,10.2625 v -10.2 h -1 v 10.2 L 0.700001,6.22505 0,6.96875 5,12.2812 Z"
-       fill="#6929C4"
+       fill="#00A6D6"
        id="path916" />
   </g>
 </svg>

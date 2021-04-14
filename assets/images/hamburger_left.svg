@@ -55,15 +55,15 @@
      stroke="#491D8B"
      id="path833"
      inkscape:connector-curvature="0"
-     style="stroke:#6929c4;stroke-opacity:1" />
+     style="stroke:#00a6d6;stroke-opacity:1" />
   <path
-     style="fill:#6929c4;fill-opacity:1;stroke:#6929c4;stroke-opacity:1"
+     style="fill:#00a6d6;fill-opacity:1;stroke:#00a6d6;stroke-opacity:1"
      inkscape:connector-curvature="0"
      d="M 8.0266563e-4,1.9999994 15.000803,2.0240794"
      stroke="#491D8B"
      id="path937" />
   <g
-     style="fill:#e8daff;fill-opacity:1;stroke:#6929c4;stroke-opacity:1"
+     style="fill:#e8daff;fill-opacity:1;stroke:#00a6d6;stroke-opacity:1"
      id="g961"
      transform="translate(-0.99799281,12.260032)">
     <path
@@ -71,6 +71,6 @@
        stroke="#491D8B"
        d="M 1,0.739964 5.99999,0.760036"
        inkscape:connector-curvature="0"
-       style="fill:#e8daff;fill-opacity:1;stroke:#6929c4;stroke-opacity:1" />
+       style="fill:#e8daff;fill-opacity:1;stroke:#00a6d6;stroke-opacity:1" />
   </g>
 </svg>
