@@ -29,11 +29,11 @@
     transition: all 0.2s;
     background-color: #BABABB;
     border: none;
-    color: #0066A2;
+    color: #000000;
 }
 
 .thebelab-button:hover{
-    background-color: #000000;
+    background-color: #0066A2;
     color: white;
 }
 
@@ -43,7 +43,7 @@
 }
 
 .CodeMirror {
-	font-family: "IBM Plex Mono";
+	font-family: "Ubuntu Mono";
 	font-size: 0.9em;
 }
 
