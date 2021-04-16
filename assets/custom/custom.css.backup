@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400&display=swap');
 
 body {
-	font-family: 'IBM Plex Sans', sans-serif;
+	font-family: Arial, sans-serif;
 }
 
 .left {
@@ -73,7 +73,7 @@ img.textbook_logo {
 }
 
 .buttons, .interact-button {
-	font-family: 'IBM Plex Sans', sans-serif;
+	font-family: Arial, sans-serif;
 	background-color: white;
 	transition: background-color .2s linear, color .2s linear, fill .2s linear;
 	margin-bottom: 3px;
@@ -96,7 +96,7 @@ img.textbook_logo {
 }
 
 .thebelab-button {
-	font-family: 'IBM Plex Sans', sans-serif;
+	font-family: Arial, sans-serif;
 	border-radius: 0px;
 	margin-top: .5em;
 	margin-left: 0px;
